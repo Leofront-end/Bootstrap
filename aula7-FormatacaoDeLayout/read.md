@@ -113,7 +113,7 @@
 ## MARGIN
 - ms-**auto** poe uma **margin esquerda** do numero que estiver disponivel
 ```
-<div class="col-3 mx-auto">Coluna 1</div>
+<div class="col-3 ms-auto">Coluna 1</div>
 ```
 
 - mx-**auto** poe uma **margin centralizada** do numero que estiver disponivel
