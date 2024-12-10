@@ -3,10 +3,10 @@
 ```
 <div class="container">
     <div class="row">
-            <div class="col-3 ">Coluna 1</div>
-            <div class="col-3 ">Coluna 2</div>
+            <div class="col-3">Coluna 1</div>
+            <div class="col-3">Coluna 2</div>
             <div class="w-100"></div>
-            <div class="col-3 ">Coluna 3</div>
+            <div class="col-3">Coluna 3</div>
         </div>
     </div>
 </div>
