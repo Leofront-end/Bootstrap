@@ -118,6 +118,12 @@
 ```
 <div class="col-3 offset-n°"></div>
 ```
+
+## Quebra de linha
+- **Quebra de linha**
+```
+<div class="w-100"></div> 
+```
 ## MARGIN
 - ms-**auto** poe uma **margin esquerda** do numero que estiver disponivel
 ```
