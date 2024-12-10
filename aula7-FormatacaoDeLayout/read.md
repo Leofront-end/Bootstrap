@@ -15,6 +15,7 @@
 ```
 
 ## Ajustar Verticalmente
+### ITEMS
 - Align-items-**start** para alinhar todos os itens no **começo** verticalmente
 ```
 <div class="row align-items-start"></div>
@@ -30,6 +31,7 @@
 <div class="row align-items-end"></div>
 ```
 
+### SELF
 - Align-self-**start** para alinhar um dos itens no **começo** verticalmente
 ```
 <div class="row align-self-start"></div>
@@ -45,6 +47,7 @@
 <div class="row align-self-end"></div>
 ```
 
+# COM BREAKPOINT
 - Align-items-**xxl**-center o **breakpoint** do xxl ent só ira funcionar a partir de 1300px mais ou menos
 
 ```
@@ -82,22 +85,6 @@
 <div class="row justify-content-evenly"></div>
 ```
 
-## ALIGN
-- align-self-**start** deixa apenas o item no **começo**
-```
-<div class="col-3 align-self-start"></div>
-```
-
-- align-self-**center** deixa apenas o item no **meio**
-```
-<div class="col-3 align-self-center"></div>
-```
-
-- align-self-**end** deixa apenas o item no **final**
-```
-<div class="col-3 align-self-end"></div>
-```
-
 ## ORDER
 - order-**last** faz o item ir para o **final**
 ```
@@ -124,6 +111,7 @@
 ```
 <div class="w-100"></div> 
 ```
+
 ## MARGIN
 - ms-**auto** poe uma **margin esquerda** do numero que estiver disponivel
 ```
@@ -134,3 +122,6 @@
 ```
 <div class="col-3 mx-auto">Coluna 1</div>
 ```
+
+## OBSERCAÇÃO
+- **TODOS OS ITEMS A CIMA TEM VARIAÇÃO DE BREAKPOINT**
