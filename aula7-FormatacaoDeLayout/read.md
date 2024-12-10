@@ -2,16 +2,14 @@
 
 ```
 <div class="container">
-    <div class="row ">
-            <div class="col-3 mx-auto">Coluna 1</div><!--
-                    ms-auto poe uma margin esquerda do numero que estiver disponivel
-                    mx-auto poe uma margin centralizada do numero que estiver disponivel
-                -->
-                <div class="col-3 ">Coluna 2</div><!---->
-            <!-- <div class="w-100"></div> Quebra de linha-->
-            <!-- <div class="col-3 ">Coluna 3</div><!--align-self-end --> 
+    <div class="row">
+            <div class="col-3 ">Coluna 1</div>
+            <div class="col-3 ">Coluna 2</div>
+            <div class="w-100"></div>
+            <div class="col-3 ">Coluna 3</div>
         </div>
     </div>
+</div>
 ```
 
 ## Ajustar Verticalmente
