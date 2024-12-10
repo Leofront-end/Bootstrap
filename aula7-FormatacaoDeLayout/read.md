@@ -12,7 +12,7 @@
 </div>
 ```
 
-## Ajustar Verticalmente
+## AJUSTAR VERTICALMENTE
 ### ITEMS
 - Align-items-**start** para alinhar todos os itens no **começo** verticalmente
 ```
@@ -52,7 +52,7 @@
 <div class="row Align-items-xxl-center"></div>
 ```
 
-## Ajustar Horizontalmente
+## AJUSTAR HORIZONTALMENTE
 - justify-content-**start** deixa centralizado no **começo**
 ```
 <div class="row justify-content-start"></div>
@@ -104,7 +104,7 @@
 <div class="col-3 offset-n°"></div>
 ```
 
-## Quebra de linha
+## QUEBRA DE LINHA
 - **Quebra de linha**
 ```
 <div class="w-100"></div> 
@@ -121,5 +121,5 @@
 <div class="col-3 mx-auto">Coluna 1</div>
 ```
 
-## OBSERCAÇÃO
+## OBSERVAÇÃO
 - **TODOS OS ITEMS A CIMA TEM VARIAÇÃO DE BREAKPOINT**
