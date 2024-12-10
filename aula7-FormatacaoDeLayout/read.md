@@ -47,7 +47,7 @@
 <div class="row align-self-end"></div>
 ```
 
-# COM BREAKPOINT
+### COM BREAKPOINT
 - Align-items-**xxl**-center o **breakpoint** do xxl ent só ira funcionar a partir de 1300px mais ou menos
 
 ```
