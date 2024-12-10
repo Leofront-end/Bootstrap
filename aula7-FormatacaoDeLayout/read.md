@@ -49,7 +49,7 @@
 - Align-items-**xxl**-center o **breakpoint** do xxl ent só ira funcionar a partir de 1300px mais ou menos
 
 ```
-<div class="row Align-items-xxl-center"></div>
+<div class="row align-items-xxl-center"></div>
 ```
 
 ## AJUSTAR HORIZONTALMENTE
