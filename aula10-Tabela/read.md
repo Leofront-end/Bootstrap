@@ -1,4 +1,5 @@
 # Tabelas
+Tabelas
 ```
 <div class="container">
     <table class="table table-danger">
@@ -86,7 +87,7 @@ Deixar a tabela compacta (table-sm)
 <table class="table table-striped table-hover table-bordered table-sm">
 ```
 
-Uma divisoria entre **THEAD** e **TBODY**
+Uma divisoria entre **THEAD** e **TBODY** (table-group-divider)
 ```
 <tbody class="table-group-divider">
 ```
