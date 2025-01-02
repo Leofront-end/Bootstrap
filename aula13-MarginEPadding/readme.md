@@ -10,7 +10,7 @@ Margin de 0 a 5
 | 4 | 1.5 |
 | 5 | 3 |
 
-Margin externa(m-4)
+Margin externa (m-4)
 ```
 <div class="container">
     <p class="text-bg-dark m-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, reiciendis. Harum nemo blanditiis nulla dolorem. Rerum, sit! Autem, fuga placeat!</p>
@@ -87,7 +87,7 @@ margin interna superior e inferior ↑↓(py-4)
 ```
 
 ## COM BREAKPOINTS
-Da para utilizar com breakpoint
+Da para utilizar com breakpoint (m-brakpoint-0)
 ```
 <p class="text-bg-dark m-sm-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, reiciendis. Harum nemo blanditiis nulla dolorem. Rerum, sit! Autem, fuga placeat!</p>
 ```
