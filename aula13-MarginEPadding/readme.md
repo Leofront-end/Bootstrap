@@ -87,7 +87,7 @@ margin interna superior e inferior ↑↓(py-4)
 ```
 
 ## COM BREAKPOINTS
-Da para utilizar com breakpoint (m-brakpoint-0)
+Da para utilizar com breakpoint (m-breakpoint-0)
 ```
 <p class="text-bg-dark m-sm-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, reiciendis. Harum nemo blanditiis nulla dolorem. Rerum, sit! Autem, fuga placeat!</p>
 ```
