@@ -75,6 +75,7 @@ Se for quadrado o tamanho vai virar um circulo
 ```
 <div class="col-4 mx-auto p-5 bg-success border-start border-end border-dark border-3 border-opacity-50 rounded-circle shadow-lg"></div>
 ```
+
 ## SOMBRA
 Remover qualquer tipo de sombra (shadow-none)
 ```
