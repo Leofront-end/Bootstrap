@@ -70,7 +70,7 @@ Ao passar o mouse em cima ele mostra a abreviação
 </div>
 ```
 
-## bloco de citação
+## Bloco de citação
 ```
 <div class="container">
     <figure class="text-center">
